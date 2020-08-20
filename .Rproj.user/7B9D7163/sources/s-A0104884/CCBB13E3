@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597954489388.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CCBB13E3",
+    "lastKnownWriteTime" : 1597954515,
+    "last_content_update" : 1597954518363,
+    "path" : "~/Documents/Formacion Profesional/The Data Scientists Toolbox/Git Hub Prueba/Test.R",
+    "project_path" : "Test.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
